@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         self.sceneView.session.run(configulation)
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        let a: Int = 0 
     }
 
     @IBAction func add(_ sender: UIButton) {
